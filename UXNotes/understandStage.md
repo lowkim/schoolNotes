@@ -1,5 +1,4 @@
-
-What are the that allows us to better understand users?
+# What are the that allows us to better understand users?
 
 * Requirements
 * User Needs Analysis
@@ -19,11 +18,14 @@ This is important as users do not think like us. By listening to ideas and under
 * Defining UXD is the collection of methods that is applied to the process of designing interactive experiences and prioritizing the quality of user experience  
 * Optimal Balance is finding a balance for what is good for the user considering time constraints, budget and other resources. This requires team-effort as having expertise from different area helps to provide a good experience.
 * Challenge the status Quo aims to eliminate designs that does not have good user experience
+
 ### Life Experiences 
 * We use life experiences to create designs that will fit into people's lives, life experience differs based on the products and design we encounter and we need designers to understand the behavior of people whom they are designing for.
-* INSET EXAMPLE FROM SLIDES 
-
+* Sample Context: Airline Industry
+  * Developer perspective is to build a user interface for airline booking which focuses on selling tickets to maximize the occupancy of each flight.
+  * UXD perspective is to broaden the understanding of why people want to travel and explore elements to help build a complete user experience
 ### UXD ROLES WONT BE TESTED!!!
+### Multidesciplinary Teams I lazy do 
 
 # User needs analysis
 There are different types of users such as internal and external users. Internal users are individuals, departments. External users are competitors, supplier, customers and citizens, the context of users differs so different research methods is needed.

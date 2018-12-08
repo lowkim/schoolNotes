@@ -35,16 +35,15 @@ The content can be evaluated in three different ways
 - What users want
 - What contents exist
 - What content the clients wants.
-
-INSERT VENN DIAGRAM
+![](Images/ContentStrategy_VennDiagram.png)
 ### Content Template
 It is templates that reference what information the site has and in what format
-NEED INSERT IMAGE LTR
+![](Images/ContentStrategy_Template.png)
 
 ### Editorial Calendar
 Used to organize and catergorize the content which marketers plan to publish. They will factor in pioritized list of what to publish, effort required, the destination of publishing and the dates meant for writing, editing and publishing.
 The tools they use are spreadsheet, google calendar and etc...
-###Content Flow
+### Content Flow
 Analyses the entire creation and movement of content.
 
 ## Content Organisation Techniques  
@@ -58,14 +57,19 @@ A Information Architect transforms data into understandable information structur
 
 ### Sitemap Models
 There are four site map models:
-* Strict singular Hierarchy
-* Multi Dimensional 
-* Hub Model
-* Search Driven Model
-<!-- Insert Images -->
+* Strict singular Hierarchy  
+![](Images/StrictSingular.png)
+* Multi Dimensional   
+![](Images/MultiDimensional.png)
+* Hub Model  
+![](Images/HubModel.png)
+* Search Driven Model  
+![](Images/SearchDrivenModel.png)
 
 ### Card Sorting  
 * Open Sort
   * They are good for new navigational structures or restructuring existing navigation structure. It is done by grouping cards and categorizing them.
+![](Images/OpenCardSort.png)
 * Closed Sort
-  * They are good for validating existing site maps or when adding more content to the site map. It is done by providing high level categories and sorting the card accordingly.
+  * They are good for validating existing site maps or when adding more content to the site map. It is done by providing high level categories and sorting the card accordingly.  
+![](Images/ClosedCardSort.png)
