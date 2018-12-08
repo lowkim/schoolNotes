@@ -6,32 +6,32 @@ What are the that allows us to better understand users?
 * Competitive Analysis
 * Other enquiry and review
 
-#Requirements
+# Requirements
 This is important as users do not think like us. By listening to ideas and understanding what the requirements helps us to understand it better.
 
-###What makes up requirements
+### What makes up requirements
 * Designing interactive experiences
 * Life's Experiences
 * Roles in UXD
 * Today's Multidisciplinary Teams 
 
-###Designing Interactive Experiences
+### Designing Interactive Experiences
 * Defining UXD is the collection of methods that is applied to the process of designing interactive experiences and prioritizing the quality of user experience  
 * Optimal Balance is finding a balance for what is good for the user considering time constraints, budget and other resources. This requires team-effort as having expertise from different area helps to provide a good experience.
 * Challenge the status Quo aims to eliminate designs that does not have good user experience
 ### Life Experiences 
 * We use life experiences to create designs that will fit into people's lives, life experience differs based on the products and design we encounter and we need designers to understand the behavior of people whom they are designing for.
-* <!-- INSET EXAMPLE FROM SLIDES -->
+* INSET EXAMPLE FROM SLIDES 
 
-###UXD ROLES WONT BE TESTED!!!
+### UXD ROLES WONT BE TESTED!!!
 
-#User needs analysis
+# User needs analysis
 There are different types of users such as internal and external users. Internal users are individuals, departments. External users are competitors, supplier, customers and citizens, the context of users differs so different research methods is needed.
 
-#Competitive Analysis (Heuristic Evaluation)
+# Competitive Analysis (Heuristic Evaluation)
 There are four purposes, review a product against conventional designs, obtain feedback quickly, identify potential design flaws and highlight quick fixes. This helps in revamping existing design and understand competition landscape.
 
-##What helps in the analysis?
+## What helps in the analysis?
 * Made for humans
   - Is the site relevant, useful and enjoyable. Does the site match user's mental model, speak in user-friendly language and offers a right level of user control
 * Is it Forgiving?
@@ -44,7 +44,7 @@ There are four purposes, review a product against conventional designs, obtain f
 * Trustworthy 
   - Is the site up to date, accurate, bug free and keep its promises.
 
-#User Research Methods
+# User Research Methods
 * Why is it important?
   - Users do not think like us, they do not have context of our system
   - We need to research organizational context to understand what the requirements are to manage expectations, surface the unspoken and understand the stakeholder landscape.
