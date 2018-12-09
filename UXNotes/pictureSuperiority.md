@@ -26,15 +26,58 @@
 
 # The Right Style
 * Illustration
+  * It is appropiate when a design, flowchart or similar graphic is needed to tell your story.
+  * When you have understood your user and believe that illustration is suitable to convey your message
 * Mascots
+  * It is a manifestation of your design persona and injects personaily into the interaction between your site and the user
+  * Create a dynamic version instead of a static version to make it feel alive.
 * Background
+  * Tells their own story or reinforce the existing story, it adds an extra dimension of liveliness to your site
+  * It is costly to produce these video and graphics but as the complexity of the story rises, the effectiveness of this storytelling technique will rise too.
 * Personalization
+  * Focus on what set your brand apart from competition by making your story personal.
 
 # Engaged Storytelling
 * Make users a character
+  * Use guided questionnaire to make information personal to the user so the user immediately become invested in what you are telling them.
+  * E.g. Slavery Footprint website presents content that are directly about them
 * Gamify your site
+  * It is a system of risk and reward, we have to find ways in the story to reward your use for completing certain task.
+  * E.g. Filling out registration forms or completing special offers
 * Interactivity
+  * Add interactive value to clicking and scrolling action through images and text. When clicking, user images to reinforce where users should click and what will happen when they do.
 * Make visuals responds
+  * Trigger a visual action/reaction through clicking, scrolling or a form submission
+  * E.g. Babel website as you scroill down a babel seemingly falls from the sky
 * Easter Egg Effect
+  * It is a well hidden message in a digital product, this adds joy of discoverability as there is an element of surprise, excitement and secret knowledge.
 * Keep Big Picture in Mind
+  * Take time to map out the beginning, middle and end of experience
   * What are the 3 stages
+    - Beginning:Stimulus
+    - Middle:Engagement
+    - End:Completion of final goal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
