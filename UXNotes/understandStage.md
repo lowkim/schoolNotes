@@ -38,10 +38,13 @@ There are four purposes, review a product against conventional designs, obtain f
   - Is the site relevant, useful and enjoyable. Does the site match user's mental model, speak in user-friendly language and offers a right level of user control
 * Is it Forgiving?
   - Does the site prevent error, is it explained clearly and recoverable with ease. Does the site minimize user mental workload?
+* Accessible
   - Is the site catered to visually impaired, work with assistive technology and is the text legible?
 * Self-Evident 
   - Is the site easy to navigate with logical navigation and have icons and graphics that make sense. Does it knows what their target audience is?
+* Predictable
   - Is the site consistent in remembering user preferences and have good default user inputs. Does the site use known conventions.
+* Efficient
   - Is the structure, text, image concise? Is it responsive and does it prioritize important tasks?
 * Trustworthy 
   - Is the site up to date, accurate, bug free and keep its promises.

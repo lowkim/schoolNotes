@@ -117,10 +117,10 @@ The purpose of it is to organize, making items one visual unit when they are in 
 * Complementary colors - They are opposite of each other and draw out natural appeal and create more eye-pleasing aesthetic.
 
 ### Mixing colors
-* Monochromatic - It is basic and uses one dominant color or different shades of the same color by adding white or black.
+* Monochromatic - It is basic and uses one dominant color or different shades of the same color by adding white or black. It is common in minimalist design as it naturally empasize the content.
 * Analogous - Create more attractive design through relying on colors next to each other
 * Complementary - Uses opposite colors to create dynamic and emotionally simulating page
-* Triadic - Implemented with three balanced colors joined by a equilateral triangle 
+* Triadic - Implemented with three balanced colors joined by a equilateral triangle. It takes no risk to create a visually safe look, however it offers no reward except for security and some diversity 
 
 ### Typography
 There are 3 Basic Principles:
