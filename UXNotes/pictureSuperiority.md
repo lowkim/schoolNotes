@@ -23,6 +23,8 @@
   * More abstract than iconic image, it conveys a feeling or general idea than a specific object and needs to be learned and taught to interpret correctly
   * E.g. Microsoft logo
 * Indexical Image
+  * It is an image that represents a meaning without having to say it, it links meaning between an image and its representation 
+  * E.g. A thermomether showing it below zero indicates that something is cold
 
 # The Right Style
 * Illustration
