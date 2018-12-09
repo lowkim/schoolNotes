@@ -56,6 +56,7 @@ It is a way to structure and classify sites to help people find and manage infor
 A Information Architect transforms data into understandable information structure that is site maps to allow users to find path to information and they identify relationship between information and cross references. Tools they use sis XMind.
 
 ### Sitemap Models
+[a link](https://webdesignfromscratch.com/website-architecture/ia-models/)
 There are four site map models:
 * Strict singular Hierarchy  
 ![](Images/StrictSingular.png)
