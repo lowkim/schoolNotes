@@ -39,20 +39,20 @@ SSLLTG
   * Make your story personal so to set your brand apart from competition.
 
 #What are the 7 Heuristic analysis
-* M
-* A
-* S
-* P
-* E 
-* T
-* F
+* Made for humans - Is the content relavent, enjoyable and does the content suit the user mental mode.
+* Accessible - Is the text legible and does it cater to the visually impaired.
+* SelfEvident - Is the site easy to navigate with logical navigation and have icon as graphics that make sense to the user.
+* Predictable - Does the site have good default user input and does it remember the user?
+* Efficient - Is the text, image, structure consice and does it pioritize important task 
+* Trustworthy - Is the site up to date and bug free and deliver what it promises
+* Forgiving - Does the site prevent error and does it provide options to recover from it easily and does it reduce the user mental workload
 
 # What are the eight user research method
-* E
-* A 
-* E
-* C
-* C 
-* P
-* F
-* F
+* Enthography - Understand behaivor and culture by going out and talking to people
+* A Day in life - Follow people around and gather data 
+* EyeTracking - Use unconventional methods to get user's users attention, this helps to make better design that guides the user.
+* Contextual Inquiry - An investigator will watch a user, thereafter a discussion will take place to discuss what the user experienced
+* Card Sorting - It gives insight to the user mental mode to help construct an information architecture to resonate with them
+* Persona - It is a fictional character that represent the challenges and research data to help developers achieve their goal
+* Face to face - The wireframe is often the question but can have biased interview
+* Focus group - Usually 5 -12 participants that provides a lot of ideation but it requires moderation 
