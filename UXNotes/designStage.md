@@ -60,7 +60,7 @@ NEED ADD MORE COCJ OSO
   * Memorability is the measure of how easy it is to use a interface for a returning user. This can be ensured by having standards and consistency. 
   * If an app is used frequently a higher memorability is needed as consistency eases repeated usage.
 * Make it error free
-  * 
+  * Provide notification of what went wrong and diagnose what caused the error that will lead to display a precise, clear and constructive error message 
 * Make it efficient
   * Enables the user to complete key task ASAP and the application will behave in a consistent and predictable way
     * Such as apple, which recognised the 3 key things user wants to do with a photo

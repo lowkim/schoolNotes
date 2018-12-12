@@ -56,3 +56,15 @@ SSLLTG
 * Persona - It is a fictional character that represent the challenges and research data to help developers achieve their goal
 * Face to face - The wireframe is often the question but can have biased interview
 * Focus group - Usually 5 -12 participants that provides a lot of ideation but it requires moderation 
+
+# What makes up the understand stage
+* Requirements
+  - Designing Interactive experience
+    - Define UXD is a collection of methods that is applied during the process of desgining interactive experiences and piortizing the quality of user experience
+    - Optimal Balance - This is finding the balance that is good for the user considering the time constraints, budget and other resource. This requires people with different expertise to help create a good user exprience
+    - Challenge the status quo - This is to eleminate bad design 
+  - Life Experience
+    - We use life experience to create a design that fit into other's life, their life experiences might be different based on their encounters and experiences thus we need a designer to understand the behaivor the people whom they are designing for 
+* Understanding Users
+* Heuristic Evaluation
+* Other enquiry
